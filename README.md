@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/yourusername/form_template_app.git
+git clone https://github.com/DKolxoznik/praktik_tushkov.git
 cd form_template_app
 ```
 2. Установите зависимости:
